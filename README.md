@@ -5,8 +5,12 @@
 This application is a backend application servicing front end routes and using MySQL database with Node.Js, Express, Sequelize and dotenv.
 
 
-## Istallation
 
+## Table of Contents 
+
+
+
+## Istallation
 
 
 
@@ -27,5 +31,23 @@ npm run seed
 
 npm start
 
+
+## Credits
+
+
+
 ## Licence
 MIT
+
+## Badges
+
+
+
+## Features
+
+
+
+## How to Contribute
+
+
+## Tests
